@@ -1,0 +1,15 @@
+{
+  "name": "procurement_ai",
+  "version": "1.0.0",
+  "description": "AI Automation App for Procurement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd procurement && yarn install",
+    "dev": "cd procurement && yarn dev",
+    "build": "cd procurement && yarn build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
